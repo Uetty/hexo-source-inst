@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+uetty.github.io/
+source/
+.deploy*/
